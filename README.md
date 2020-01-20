@@ -1,5 +1,5 @@
 
-# Web_Parralax_Responsive
+# Web_Calculadora-Simples
 <p align="center">
     <img src="https://github.com/RenanSN/Web_Calculadora-Simples/blob/master/capa.png" width="490">
   </a>
