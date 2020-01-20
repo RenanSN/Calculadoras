@@ -1,6 +1,6 @@
 
 # Calculadora_Simples
-Web -> HTML + CSS + JS
+<b> Web -> HTML + CSS + JS <b>
 <br>
 <p align="center">
     <img src="https://github.com/RenanSN/Web_Calculadora-Simples/blob/master/capa.png" width="490">
