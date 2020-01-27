@@ -1,5 +1,6 @@
 
-# Calculadora_Simples
+# Calculadora
+<b> Linguagens e Frameworks </b><br>
 <b> Web -> HTML + CSS + JS <b>
 <br>
 <p align="center">
