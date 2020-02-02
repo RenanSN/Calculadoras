@@ -8,4 +8,4 @@
     <img src="https://github.com/RenanSN/Calculadoras/blob/master/Calculadora_C%23%2BWindowsForms/capa.PNG">
 </p>
 
-#### Ferramentas: [Visual Studio 2017/2019](https://visualstudio.microsoft.com/pt-br/vs/)
+> #### Ferramenta: [Visual Studio 2017/2019](https://visualstudio.microsoft.com/pt-br/vs/)
