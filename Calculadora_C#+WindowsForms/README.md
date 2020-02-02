@@ -1,3 +1,4 @@
+<img alt="Conda badge" src="https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey">
 
 <h1 align="center">
     Calculadora_<img src="https://img.icons8.com/ios-filled/38/8E44AD/c-sharp-logo.png">+WindowsForms
