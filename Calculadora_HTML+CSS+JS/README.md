@@ -1,11 +1,9 @@
 
-# Calculadora
-<b> Linguagens e Frameworks </b><br>
-<b> Web -> HTML + CSS + JS <b>
+<h1 align="center">
+    Calculadora_HTML+CSS+JS
+<h1>
 <br>
 <p align="center">
-    <img src="https://github.com/RenanSN/Web_Calculadora-Simples/blob/master/capa.png" width="490">
-  </a>
+    <img src="https://github.com/RenanSN/Web_Calculadora-Simples/blob/master/capa.png" width="490"><br>
+    <b> Demonstrção: <b> 
 </p>
-<br>
-<b> Demonstrção: <b> https://renansn.github.io/Web_Calculadora-Simples
